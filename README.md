@@ -145,7 +145,8 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
 
 Using Chewie in combination with the `video_player` package provides a powerful and flexible way to handle video playback in Flutter. It abstracts away much of the complexity of handling video playback, offering an easy-to-use API with rich features. Always refer to the [official Chewie documentation](https://pub.dev/packages/chewie) for the latest features and updates.
 
-### ScreenShorts
+### ScreenShorts  [Go to Dart Code]([https://example-docs.com](https://github.com/Aksharpatel06/video_player_app/tree/master/lib))
+
 
 
 <p align='center'>

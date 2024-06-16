@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.6
   google_fonts: ^6.2.1
   provider: ^6.1.2
+  video_player: ^2.8.7
+  chewie: ^1.8.1
+
 
 dev_dependencies:
   flutter_test:
@@ -67,6 +70,9 @@ flutter:
   assets:
     - asset/img/app logo/
     - asset/img/home/
+    - asset/img/video_image/priview/
+    - asset/img/video_image/Nollywood/
+    - asset/video/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
